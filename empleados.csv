@@ -1,0 +1,1001 @@
+Nombre,Apellido,Edad,Salario,Departamento
+Lucia,Lopez,41,36248,Recursos Humanos
+Maria,Sanchez,29,30301,Investigación
+Elena,Gomez,46,43394,Finanzas
+Elena,Gomez,41,112424,Recursos Humanos
+Ana,Morales,35,82858,Marketing
+Elena,Sanchez,53,71990,Investigación
+Sofia,Lopez,57,54282,IT
+Elena,Rodriguez,29,63692,Producción
+Elena,Fernandez,29,76154,Marketing
+Pedro,Sanchez,25,118920,Recursos Humanos
+Maria,Rodriguez,29,21723,Ventas
+Sofia,Diaz,54,112966,Marketing
+Elena,Torres,44,94506,IT
+Miguel,Martinez,44,90489,Producción
+Luis,Lopez,50,70625,Marketing
+Sofia,Rodriguez,52,92302,Recursos Humanos
+Juan,Lopez,50,118606,IT
+Carlos,Diaz,40,35756,Producción
+Pedro,Rodriguez,34,106126,Recursos Humanos
+Carlos,Sanchez,49,102621,IT
+Pedro,Lopez,32,81741,Recursos Humanos
+Maria,Martinez,59,68774,Logística
+Ana,Fernandez,40,56132,Ventas
+Ana,Lopez,50,30710,Producción
+Maria,Martinez,44,103814,Finanzas
+Carlos,Lopez,53,81814,Investigación
+Luis,Torres,24,29832,Investigación
+Carlos,Rodriguez,33,93900,Marketing
+Elena,Morales,60,72756,Logística
+Elena,Lopez,37,52650,Producción
+Pedro,Diaz,48,35446,Recursos Humanos
+Juan,Morales,58,40178,Ventas
+Miguel,Rodriguez,35,68710,Recursos Humanos
+Miguel,Diaz,22,99049,Finanzas
+Maria,Torres,53,70268,Ventas
+Pedro,Sanchez,35,34069,Finanzas
+Lucia,Rodriguez,28,88004,Ventas
+Lucia,Martinez,60,33336,Marketing
+Carlos,Diaz,30,73559,Marketing
+Sofia,Torres,55,31547,Investigación
+Elena,Rodriguez,46,72341,Marketing
+Ana,Fernandez,49,81672,IT
+Luis,Gomez,53,55707,Recursos Humanos
+Maria,Lopez,57,75723,Logística
+Ana,Lopez,60,79601,Producción
+Pedro,Lopez,22,35334,Recursos Humanos
+Miguel,Torres,57,114224,Ventas
+Carlos,Torres,37,26396,Producción
+Carlos,Morales,50,37076,Finanzas
+Carlos,Torres,47,66723,Logística
+Carlos,Martinez,40,54818,Finanzas
+Lucia,Lopez,49,67187,Marketing
+Elena,Sanchez,56,38223,Marketing
+Luis,Sanchez,46,97897,Recursos Humanos
+Pedro,Fernandez,36,32784,Recursos Humanos
+Maria,Rodriguez,29,34197,IT
+Luis,Martinez,50,116118,Ventas
+Pedro,Martinez,39,63412,Producción
+Sofia,Lopez,32,31747,Recursos Humanos
+Ana,Rodriguez,59,102426,Marketing
+Luis,Lopez,26,74670,Ventas
+Ana,Gomez,43,55535,Ventas
+Miguel,Martinez,45,102066,Finanzas
+Pedro,Morales,31,55235,Logística
+Juan,Martinez,48,57501,IT
+Carlos,Morales,41,23337,Investigación
+Sofia,Rodriguez,56,97883,Logística
+Luis,Lopez,55,91432,IT
+Pedro,Martinez,48,40624,Recursos Humanos
+Elena,Martinez,57,94635,Producción
+Luis,Gomez,26,39347,Investigación
+Luis,Martinez,40,119891,Logística
+Pedro,Torres,47,21360,Ventas
+Sofia,Fernandez,26,52503,Marketing
+Pedro,Sanchez,41,96113,Ventas
+Miguel,Torres,48,58993,Logística
+Ana,Fernandez,59,82892,Logística
+Miguel,Lopez,44,109332,Producción
+Juan,Torres,25,115629,Finanzas
+Pedro,Gomez,35,75845,Producción
+Elena,Lopez,23,93829,Producción
+Juan,Perez,43,71133,Finanzas
+Sofia,Gomez,26,39447,IT
+Lucia,Morales,30,53918,Logística
+Lucia,Sanchez,35,88584,Ventas
+Miguel,Rodriguez,51,35377,IT
+Elena,Fernandez,42,119274,Recursos Humanos
+Ana,Morales,27,49628,Ventas
+Elena,Martinez,48,67136,Marketing
+Carlos,Morales,42,58172,Logística
+Carlos,Gomez,41,65688,Finanzas
+Ana,Torres,37,27576,Producción
+Sofia,Fernandez,51,109882,Producción
+Juan,Rodriguez,27,105889,Finanzas
+Maria,Fernandez,49,99952,Investigación
+Pedro,Gomez,28,72762,IT
+Miguel,Martinez,32,82138,Recursos Humanos
+Carlos,Gomez,43,65565,Ventas
+Miguel,Gomez,38,82823,Finanzas
+Maria,Diaz,23,69834,Finanzas
+Juan,Martinez,54,20527,Recursos Humanos
+Juan,Morales,58,99377,Marketing
+Lucia,Martinez,27,35280,Producción
+Lucia,Morales,30,60852,IT
+Maria,Sanchez,51,66160,IT
+Ana,Sanchez,36,48148,Investigación
+Miguel,Torres,23,61254,Finanzas
+Lucia,Gomez,32,71748,Producción
+Juan,Torres,50,68883,Producción
+Ana,Perez,36,32458,Producción
+Luis,Perez,51,30228,Marketing
+Pedro,Torres,57,43030,Investigación
+Maria,Torres,27,115755,Marketing
+Carlos,Fernandez,25,65386,Ventas
+Juan,Martinez,31,107316,Finanzas
+Sofia,Martinez,55,91779,Marketing
+Miguel,Rodriguez,43,49750,Ventas
+Elena,Gomez,27,83959,Recursos Humanos
+Miguel,Torres,54,70057,Marketing
+Maria,Rodriguez,29,81030,Recursos Humanos
+Luis,Fernandez,30,100115,Producción
+Ana,Rodriguez,30,84919,Producción
+Maria,Gomez,36,24835,Logística
+Miguel,Lopez,49,83229,Investigación
+Sofia,Morales,56,92687,Logística
+Sofia,Fernandez,42,47930,Logística
+Luis,Diaz,42,79706,Logística
+Carlos,Morales,23,39614,Logística
+Pedro,Rodriguez,57,103411,Investigación
+Luis,Morales,60,86838,Recursos Humanos
+Maria,Rodriguez,46,33501,Marketing
+Pedro,Martinez,42,82940,Recursos Humanos
+Miguel,Rodriguez,27,72821,Logística
+Luis,Perez,54,86088,Investigación
+Ana,Perez,28,81966,Ventas
+Juan,Rodriguez,37,66025,Investigación
+Miguel,Perez,33,112837,Producción
+Pedro,Martinez,44,24856,Ventas
+Sofia,Rodriguez,59,40404,IT
+Elena,Rodriguez,40,35394,Marketing
+Ana,Diaz,28,115683,Marketing
+Pedro,Morales,45,48340,Ventas
+Pedro,Gomez,52,54815,Investigación
+Ana,Lopez,51,50824,Finanzas
+Maria,Martinez,59,23104,Recursos Humanos
+Maria,Gomez,53,80200,Logística
+Juan,Diaz,52,99752,Recursos Humanos
+Miguel,Fernandez,44,34804,Producción
+Luis,Sanchez,29,107734,Logística
+Miguel,Lopez,26,99855,Investigación
+Miguel,Martinez,47,106303,Recursos Humanos
+Lucia,Perez,58,72725,Marketing
+Pedro,Rodriguez,40,61574,Ventas
+Sofia,Diaz,44,118065,Finanzas
+Pedro,Perez,46,80559,Recursos Humanos
+Elena,Gomez,57,97680,Producción
+Sofia,Rodriguez,50,52679,Logística
+Carlos,Perez,56,35990,Logística
+Carlos,Perez,34,87129,Producción
+Juan,Gomez,42,90719,Marketing
+Elena,Martinez,42,107753,IT
+Luis,Fernandez,30,81004,Logística
+Pedro,Torres,40,107283,Investigación
+Elena,Martinez,26,95883,IT
+Sofia,Sanchez,42,79974,IT
+Sofia,Diaz,48,48566,Ventas
+Elena,Morales,40,53344,Marketing
+Luis,Diaz,32,38272,Investigación
+Lucia,Gomez,30,88498,Marketing
+Maria,Perez,60,50451,Logística
+Pedro,Morales,33,29415,Investigación
+Lucia,Martinez,48,103535,Investigación
+Carlos,Gomez,44,46163,Finanzas
+Luis,Diaz,44,56099,Producción
+Ana,Torres,57,30183,Ventas
+Pedro,Torres,55,80656,Logística
+Ana,Diaz,44,28643,Ventas
+Maria,Sanchez,57,35652,Marketing
+Juan,Diaz,31,84716,Ventas
+Elena,Morales,42,102420,Ventas
+Pedro,Fernandez,22,26159,IT
+Juan,Torres,45,43803,Finanzas
+Juan,Perez,51,114128,Recursos Humanos
+Sofia,Diaz,44,25155,Producción
+Elena,Perez,51,75735,Producción
+Juan,Rodriguez,35,112011,Marketing
+Juan,Sanchez,50,42261,Producción
+Pedro,Diaz,33,95798,Recursos Humanos
+Pedro,Sanchez,26,111428,Finanzas
+Elena,Martinez,31,44075,IT
+Elena,Fernandez,54,21763,IT
+Maria,Sanchez,22,96083,Investigación
+Carlos,Lopez,38,81743,Recursos Humanos
+Maria,Diaz,30,21691,Producción
+Elena,Rodriguez,52,35551,IT
+Sofia,Sanchez,34,41063,Marketing
+Ana,Lopez,27,114970,Ventas
+Carlos,Gomez,57,66298,Finanzas
+Ana,Diaz,43,29095,Investigación
+Juan,Lopez,58,81098,Marketing
+Luis,Lopez,26,79966,Logística
+Maria,Fernandez,48,104077,Recursos Humanos
+Lucia,Diaz,34,108162,Finanzas
+Elena,Martinez,52,46000,IT
+Carlos,Lopez,51,59271,Finanzas
+Luis,Sanchez,39,57053,IT
+Pedro,Martinez,40,90490,Finanzas
+Miguel,Morales,48,87050,Logística
+Elena,Gomez,60,21631,Logística
+Sofia,Fernandez,51,69607,IT
+Luis,Gomez,25,45631,Producción
+Lucia,Morales,31,25146,Producción
+Lucia,Fernandez,32,46405,Investigación
+Sofia,Gomez,27,20645,Logística
+Miguel,Morales,58,84897,Investigación
+Ana,Lopez,55,115184,Finanzas
+Lucia,Sanchez,34,31414,Marketing
+Sofia,Fernandez,60,43456,Investigación
+Sofia,Gomez,52,115114,Investigación
+Ana,Martinez,49,106557,Producción
+Carlos,Lopez,29,30989,Finanzas
+Miguel,Torres,43,33422,Logística
+Lucia,Fernandez,39,43555,Marketing
+Juan,Rodriguez,35,51821,Marketing
+Carlos,Torres,39,115683,Finanzas
+Juan,Lopez,31,62153,Logística
+Pedro,Lopez,52,107515,IT
+Ana,Diaz,30,51149,Logística
+Maria,Rodriguez,60,50578,Recursos Humanos
+Ana,Martinez,51,24590,Finanzas
+Miguel,Fernandez,35,77501,Logística
+Carlos,Gomez,47,68620,Marketing
+Pedro,Fernandez,60,55399,Ventas
+Pedro,Diaz,53,32618,Marketing
+Ana,Sanchez,24,92354,Finanzas
+Elena,Gomez,58,41872,IT
+Pedro,Fernandez,23,83806,Marketing
+Juan,Diaz,37,87403,Investigación
+Carlos,Sanchez,42,37858,Finanzas
+Luis,Lopez,26,92733,Marketing
+Sofia,Perez,45,87856,Marketing
+Pedro,Fernandez,47,75415,Ventas
+Juan,Gomez,57,74125,IT
+Maria,Torres,58,60200,Producción
+Ana,Torres,38,82497,Ventas
+Lucia,Diaz,26,43007,Marketing
+Luis,Gomez,30,98318,Investigación
+Maria,Rodriguez,43,60934,Recursos Humanos
+Carlos,Diaz,35,35159,Ventas
+Elena,Lopez,36,73956,Marketing
+Miguel,Torres,50,108292,Ventas
+Lucia,Diaz,56,50829,Recursos Humanos
+Miguel,Perez,34,56156,Producción
+Carlos,Sanchez,31,99880,Producción
+Lucia,Rodriguez,35,107015,Investigación
+Elena,Lopez,57,75151,Logística
+Ana,Fernandez,53,70600,Marketing
+Sofia,Diaz,53,58883,Investigación
+Juan,Diaz,55,94394,Marketing
+Luis,Morales,42,67086,Logística
+Lucia,Perez,46,37621,Investigación
+Sofia,Lopez,46,54663,Recursos Humanos
+Juan,Rodriguez,45,94036,Recursos Humanos
+Juan,Sanchez,32,98081,Logística
+Carlos,Rodriguez,41,64435,Finanzas
+Juan,Torres,46,48952,IT
+Pedro,Fernandez,38,106059,Logística
+Luis,Sanchez,30,39095,Marketing
+Carlos,Fernandez,38,94015,Recursos Humanos
+Carlos,Diaz,45,75925,Ventas
+Luis,Torres,22,54384,Investigación
+Sofia,Diaz,57,60293,Recursos Humanos
+Miguel,Fernandez,42,106750,Logística
+Carlos,Torres,27,71266,Recursos Humanos
+Juan,Martinez,28,32731,Marketing
+Juan,Lopez,34,20851,Finanzas
+Pedro,Sanchez,53,23445,Marketing
+Lucia,Gomez,49,85730,Investigación
+Ana,Fernandez,35,75718,Logística
+Ana,Fernandez,31,30373,Ventas
+Pedro,Perez,47,43558,Marketing
+Sofia,Morales,31,83583,Marketing
+Ana,Gomez,24,105166,IT
+Carlos,Lopez,52,110940,Producción
+Carlos,Gomez,46,117608,Logística
+Luis,Sanchez,39,99781,Investigación
+Elena,Perez,47,54953,Ventas
+Miguel,Fernandez,23,41017,Ventas
+Lucia,Fernandez,24,86790,IT
+Sofia,Morales,30,74067,Logística
+Luis,Diaz,32,20589,Ventas
+Carlos,Rodriguez,45,60459,Recursos Humanos
+Miguel,Lopez,33,112264,Producción
+Carlos,Diaz,57,115395,Marketing
+Lucia,Gomez,40,61270,IT
+Maria,Rodriguez,28,119551,IT
+Sofia,Gomez,23,86693,Recursos Humanos
+Ana,Fernandez,48,39059,Investigación
+Juan,Lopez,41,106145,Ventas
+Lucia,Rodriguez,42,30204,IT
+Pedro,Torres,29,24625,Investigación
+Luis,Gomez,35,113650,Finanzas
+Ana,Rodriguez,59,24017,IT
+Elena,Fernandez,52,109936,Producción
+Luis,Diaz,33,98708,Marketing
+Sofia,Rodriguez,30,106264,Investigación
+Elena,Sanchez,50,62025,Producción
+Maria,Rodriguez,42,115683,Ventas
+Luis,Sanchez,35,28366,IT
+Carlos,Perez,58,60124,Marketing
+Sofia,Diaz,32,113483,Ventas
+Luis,Morales,54,74090,IT
+Carlos,Fernandez,38,116407,Logística
+Lucia,Lopez,44,110765,Producción
+Lucia,Morales,53,21320,IT
+Elena,Diaz,22,43994,IT
+Ana,Morales,38,53243,Producción
+Miguel,Martinez,30,98360,Investigación
+Lucia,Rodriguez,54,37243,Logística
+Lucia,Fernandez,29,87660,Marketing
+Carlos,Lopez,40,30631,Marketing
+Luis,Rodriguez,45,113041,Recursos Humanos
+Elena,Martinez,42,60562,Ventas
+Maria,Martinez,53,88609,Recursos Humanos
+Miguel,Diaz,56,110631,Ventas
+Carlos,Sanchez,29,61464,Recursos Humanos
+Sofia,Perez,54,105662,Investigación
+Pedro,Morales,36,21684,Logística
+Elena,Morales,29,45991,Investigación
+Luis,Sanchez,22,118076,Producción
+Elena,Rodriguez,34,74064,Logística
+Ana,Lopez,23,111277,IT
+Miguel,Morales,53,60778,Ventas
+Juan,Morales,29,32472,Producción
+Luis,Morales,49,39326,IT
+Lucia,Martinez,50,45485,Ventas
+Elena,Lopez,56,27625,Ventas
+Pedro,Lopez,29,30010,Producción
+Ana,Lopez,23,88283,Marketing
+Carlos,Fernandez,53,106594,Marketing
+Elena,Perez,34,112284,Investigación
+Miguel,Rodriguez,43,96823,Finanzas
+Miguel,Martinez,28,35173,Recursos Humanos
+Maria,Fernandez,52,84162,Marketing
+Carlos,Fernandez,53,48766,IT
+Elena,Fernandez,52,109702,Ventas
+Juan,Torres,27,58276,Recursos Humanos
+Miguel,Rodriguez,32,30674,Investigación
+Luis,Fernandez,31,77547,Producción
+Miguel,Gomez,27,35285,Recursos Humanos
+Ana,Gomez,29,82577,IT
+Ana,Morales,57,80705,Marketing
+Sofia,Sanchez,39,97827,Investigación
+Elena,Torres,46,81521,Finanzas
+Juan,Rodriguez,52,33667,Investigación
+Carlos,Fernandez,26,74025,Logística
+Lucia,Sanchez,26,75496,Finanzas
+Ana,Torres,58,38783,Recursos Humanos
+Maria,Sanchez,50,80252,Investigación
+Luis,Perez,42,23319,Producción
+Carlos,Lopez,58,28590,Recursos Humanos
+Carlos,Lopez,41,27941,Marketing
+Miguel,Martinez,52,48678,IT
+Maria,Diaz,25,81364,IT
+Pedro,Lopez,53,34339,Producción
+Luis,Lopez,29,92246,Marketing
+Maria,Gomez,46,101422,Recursos Humanos
+Juan,Morales,49,83723,Ventas
+Carlos,Martinez,53,77365,Investigación
+Lucia,Sanchez,40,76158,Ventas
+Juan,Fernandez,48,93018,Finanzas
+Luis,Diaz,37,53820,IT
+Miguel,Morales,36,50298,Recursos Humanos
+Sofia,Fernandez,53,90118,Investigación
+Lucia,Rodriguez,53,80073,Finanzas
+Miguel,Rodriguez,24,71304,Investigación
+Juan,Torres,41,114741,IT
+Lucia,Rodriguez,32,103011,IT
+Juan,Martinez,60,77249,Finanzas
+Maria,Sanchez,22,76324,Marketing
+Juan,Fernandez,44,100052,IT
+Luis,Perez,34,52443,IT
+Elena,Perez,41,74384,Marketing
+Maria,Gomez,51,67435,Producción
+Lucia,Lopez,39,28535,Finanzas
+Ana,Sanchez,43,66079,Recursos Humanos
+Luis,Morales,52,39192,Recursos Humanos
+Elena,Sanchez,36,109205,Producción
+Luis,Fernandez,46,24284,Marketing
+Lucia,Lopez,35,57041,Finanzas
+Luis,Fernandez,29,29767,Recursos Humanos
+Miguel,Fernandez,60,94975,Recursos Humanos
+Miguel,Sanchez,23,64946,Producción
+Lucia,Sanchez,31,76757,Marketing
+Pedro,Rodriguez,44,46737,Logística
+Miguel,Rodriguez,31,70317,Producción
+Carlos,Diaz,22,42043,Producción
+Ana,Sanchez,28,93501,IT
+Sofia,Fernandez,55,77458,Producción
+Luis,Morales,52,101319,Recursos Humanos
+Carlos,Lopez,37,90043,Marketing
+Miguel,Lopez,48,117622,Investigación
+Miguel,Martinez,34,37074,Logística
+Miguel,Torres,52,86509,Investigación
+Luis,Lopez,28,89227,Recursos Humanos
+Miguel,Sanchez,36,94809,IT
+Maria,Gomez,53,70412,Logística
+Miguel,Sanchez,56,43519,Producción
+Carlos,Perez,44,58468,Finanzas
+Ana,Perez,26,73154,Recursos Humanos
+Miguel,Rodriguez,42,105548,Ventas
+Ana,Morales,32,111321,Recursos Humanos
+Luis,Martinez,50,64848,Producción
+Lucia,Rodriguez,48,110024,Marketing
+Sofia,Rodriguez,44,79199,Finanzas
+Lucia,Gomez,35,37688,IT
+Juan,Rodriguez,46,99925,Investigación
+Maria,Diaz,22,96842,Finanzas
+Maria,Rodriguez,28,68261,Producción
+Pedro,Gomez,43,25221,Producción
+Miguel,Martinez,22,101428,IT
+Sofia,Rodriguez,52,27300,Finanzas
+Carlos,Martinez,55,74461,Logística
+Elena,Torres,27,71777,Finanzas
+Elena,Rodriguez,48,33010,Marketing
+Miguel,Perez,34,103465,Producción
+Juan,Morales,44,110514,Ventas
+Pedro,Diaz,60,116037,Investigación
+Luis,Morales,56,57779,IT
+Maria,Torres,48,43536,Marketing
+Ana,Fernandez,22,114140,IT
+Pedro,Sanchez,23,72006,Logística
+Carlos,Martinez,57,85565,Logística
+Lucia,Morales,41,38722,Producción
+Luis,Gomez,52,94427,Ventas
+Elena,Diaz,56,20574,Marketing
+Elena,Rodriguez,27,85654,Marketing
+Maria,Torres,24,82765,Finanzas
+Juan,Sanchez,22,37615,Marketing
+Luis,Rodriguez,29,36821,Logística
+Pedro,Martinez,22,50492,Ventas
+Luis,Perez,41,23354,Recursos Humanos
+Pedro,Perez,28,68238,Investigación
+Juan,Sanchez,25,24982,IT
+Luis,Lopez,42,22910,IT
+Luis,Perez,54,52463,Investigación
+Pedro,Gomez,45,101939,Recursos Humanos
+Maria,Perez,47,54935,Finanzas
+Miguel,Martinez,42,111407,Marketing
+Juan,Martinez,58,43319,Marketing
+Luis,Fernandez,49,64209,IT
+Ana,Fernandez,43,110967,Producción
+Juan,Sanchez,47,46454,Marketing
+Miguel,Gomez,57,68809,Recursos Humanos
+Lucia,Lopez,31,31937,IT
+Pedro,Diaz,60,111869,Finanzas
+Carlos,Fernandez,42,115787,Ventas
+Maria,Morales,60,21523,Marketing
+Luis,Perez,43,86202,Investigación
+Elena,Sanchez,52,66142,Ventas
+Elena,Torres,52,41647,Finanzas
+Miguel,Gomez,30,31923,Investigación
+Juan,Sanchez,51,38464,Finanzas
+Carlos,Torres,48,106250,IT
+Pedro,Perez,40,71542,Logística
+Miguel,Sanchez,30,40028,Producción
+Juan,Gomez,31,24580,Producción
+Luis,Fernandez,49,58642,Logística
+Lucia,Torres,55,63399,Marketing
+Lucia,Diaz,38,95432,Ventas
+Pedro,Gomez,32,35675,IT
+Sofia,Morales,48,102650,Recursos Humanos
+Elena,Rodriguez,49,85123,Finanzas
+Maria,Fernandez,60,61601,IT
+Pedro,Torres,46,67557,Producción
+Juan,Morales,53,36121,IT
+Ana,Fernandez,40,30852,Finanzas
+Elena,Rodriguez,41,102932,Marketing
+Sofia,Torres,48,87358,Producción
+Elena,Lopez,34,27943,Logística
+Miguel,Rodriguez,47,61267,Marketing
+Pedro,Fernandez,33,107755,Ventas
+Elena,Fernandez,47,62765,Producción
+Lucia,Martinez,53,97020,Recursos Humanos
+Lucia,Morales,42,50588,Logística
+Ana,Sanchez,57,32277,Investigación
+Pedro,Morales,32,51567,Marketing
+Carlos,Fernandez,26,20287,Investigación
+Elena,Rodriguez,34,96354,Recursos Humanos
+Sofia,Lopez,42,80291,Ventas
+Elena,Diaz,49,68340,Recursos Humanos
+Luis,Perez,46,42605,Investigación
+Maria,Rodriguez,24,68893,Logística
+Elena,Torres,25,55133,IT
+Maria,Perez,57,34813,Producción
+Ana,Diaz,22,72357,Logística
+Carlos,Martinez,43,112993,Ventas
+Pedro,Torres,43,106998,IT
+Miguel,Martinez,45,22111,Producción
+Maria,Perez,50,52475,Recursos Humanos
+Lucia,Diaz,22,52926,Recursos Humanos
+Sofia,Martinez,40,44577,Investigación
+Juan,Gomez,50,34901,Marketing
+Sofia,Fernandez,57,84644,Ventas
+Miguel,Sanchez,25,59366,Ventas
+Sofia,Rodriguez,24,109222,Logística
+Maria,Diaz,52,83075,Investigación
+Juan,Torres,59,73688,Ventas
+Lucia,Perez,52,39893,IT
+Sofia,Fernandez,52,110789,Producción
+Carlos,Diaz,32,86565,Logística
+Elena,Lopez,30,67848,Recursos Humanos
+Ana,Gomez,36,86357,Investigación
+Luis,Morales,54,85983,Producción
+Miguel,Diaz,26,103026,Producción
+Lucia,Perez,35,104494,Logística
+Juan,Perez,38,98884,Ventas
+Carlos,Morales,48,100927,Recursos Humanos
+Ana,Lopez,41,90853,Marketing
+Juan,Rodriguez,36,44874,Logística
+Miguel,Sanchez,52,39787,IT
+Sofia,Diaz,42,24181,Finanzas
+Ana,Diaz,46,106907,Producción
+Carlos,Gomez,22,97531,Logística
+Miguel,Rodriguez,23,99683,Recursos Humanos
+Ana,Gomez,48,116184,Ventas
+Lucia,Diaz,37,50168,IT
+Elena,Gomez,58,71960,Producción
+Elena,Diaz,57,41741,Marketing
+Pedro,Gomez,36,28420,Ventas
+Ana,Diaz,47,39672,Finanzas
+Lucia,Diaz,56,51738,Investigación
+Sofia,Morales,26,26731,Recursos Humanos
+Juan,Diaz,30,25345,Investigación
+Juan,Morales,49,42661,Producción
+Carlos,Fernandez,45,48473,Marketing
+Juan,Lopez,44,38161,IT
+Pedro,Diaz,48,25859,Finanzas
+Lucia,Gomez,57,59338,Logística
+Luis,Gomez,40,117389,Recursos Humanos
+Carlos,Sanchez,53,35311,IT
+Miguel,Gomez,46,78465,Logística
+Lucia,Perez,31,100994,Logística
+Elena,Gomez,32,105888,Marketing
+Lucia,Fernandez,49,112604,Ventas
+Miguel,Fernandez,50,60779,Ventas
+Pedro,Fernandez,35,90310,Marketing
+Ana,Rodriguez,44,23104,IT
+Lucia,Lopez,48,53989,Ventas
+Juan,Lopez,56,56586,Investigación
+Juan,Martinez,51,83038,Recursos Humanos
+Maria,Gomez,27,74248,IT
+Elena,Morales,34,78672,Finanzas
+Miguel,Torres,60,92661,Producción
+Lucia,Lopez,56,89755,Ventas
+Ana,Torres,52,47819,Marketing
+Juan,Perez,38,33530,Producción
+Elena,Perez,37,49344,Ventas
+Sofia,Rodriguez,28,79638,Finanzas
+Carlos,Morales,27,63925,Finanzas
+Miguel,Martinez,33,112410,Finanzas
+Luis,Diaz,47,89082,Logística
+Ana,Gomez,39,47258,IT
+Ana,Rodriguez,58,59966,Producción
+Pedro,Gomez,29,76636,Producción
+Juan,Perez,44,96355,Investigación
+Ana,Torres,31,116032,Finanzas
+Luis,Torres,35,73988,Marketing
+Sofia,Diaz,59,70237,Producción
+Juan,Sanchez,23,22482,Finanzas
+Pedro,Martinez,36,76604,Producción
+Carlos,Martinez,29,61281,Ventas
+Lucia,Torres,24,34626,Ventas
+Lucia,Diaz,36,96396,Logística
+Juan,Perez,43,89551,Finanzas
+Elena,Perez,36,82383,IT
+Ana,Sanchez,35,20013,Ventas
+Pedro,Sanchez,58,97218,IT
+Elena,Rodriguez,23,115739,Investigación
+Miguel,Sanchez,50,115659,Ventas
+Luis,Diaz,34,103604,Recursos Humanos
+Carlos,Fernandez,26,117940,Ventas
+Miguel,Fernandez,53,119982,Ventas
+Juan,Lopez,32,98880,Investigación
+Ana,Torres,51,51312,IT
+Miguel,Diaz,26,65255,Logística
+Sofia,Fernandez,57,72517,Recursos Humanos
+Luis,Martinez,42,64880,IT
+Maria,Martinez,40,39640,Ventas
+Ana,Lopez,55,104131,Marketing
+Maria,Gomez,48,70445,Logística
+Ana,Martinez,49,34912,Marketing
+Juan,Sanchez,37,86383,Investigación
+Luis,Rodriguez,54,35345,Investigación
+Miguel,Sanchez,44,103716,Marketing
+Luis,Rodriguez,26,86786,IT
+Lucia,Fernandez,22,62227,Investigación
+Ana,Diaz,56,74501,Recursos Humanos
+Ana,Sanchez,39,85638,IT
+Carlos,Fernandez,27,108747,IT
+Pedro,Martinez,34,101729,Ventas
+Miguel,Fernandez,51,31870,Ventas
+Maria,Lopez,34,75596,Marketing
+Ana,Rodriguez,56,91290,Logística
+Lucia,Torres,37,94318,Investigación
+Juan,Torres,28,96733,Ventas
+Pedro,Perez,54,93770,Investigación
+Miguel,Sanchez,32,68815,Producción
+Juan,Morales,50,104759,Recursos Humanos
+Juan,Diaz,47,22219,IT
+Miguel,Fernandez,25,91876,Finanzas
+Elena,Rodriguez,34,119944,Marketing
+Maria,Martinez,59,90805,Finanzas
+Lucia,Diaz,36,83464,Producción
+Carlos,Perez,22,45794,Recursos Humanos
+Juan,Martinez,25,81315,IT
+Sofia,Fernandez,36,26090,Logística
+Elena,Torres,41,103171,Producción
+Lucia,Gomez,35,26144,Investigación
+Maria,Gomez,27,106614,Marketing
+Ana,Sanchez,33,108682,Recursos Humanos
+Miguel,Sanchez,43,114465,IT
+Pedro,Rodriguez,45,115927,Finanzas
+Miguel,Sanchez,33,65437,Ventas
+Juan,Fernandez,38,93508,IT
+Juan,Gomez,41,100616,Ventas
+Sofia,Martinez,33,63489,Ventas
+Elena,Morales,39,58571,Finanzas
+Pedro,Martinez,36,38302,Investigación
+Lucia,Morales,26,117594,Producción
+Elena,Perez,53,81205,Producción
+Luis,Morales,27,90460,Investigación
+Elena,Sanchez,28,105807,Recursos Humanos
+Sofia,Perez,44,44814,Logística
+Carlos,Perez,42,69489,Ventas
+Miguel,Sanchez,26,40413,Recursos Humanos
+Pedro,Lopez,56,27451,Investigación
+Maria,Perez,35,34060,Ventas
+Sofia,Martinez,41,24743,IT
+Pedro,Sanchez,45,22620,Producción
+Juan,Diaz,55,94031,Marketing
+Elena,Perez,50,116383,Marketing
+Miguel,Fernandez,32,47562,Producción
+Pedro,Morales,45,78085,Finanzas
+Elena,Gomez,29,100539,IT
+Maria,Lopez,53,25765,Logística
+Luis,Morales,53,56427,Ventas
+Miguel,Sanchez,27,64864,Ventas
+Carlos,Lopez,28,37488,Logística
+Ana,Torres,27,83665,IT
+Ana,Lopez,38,93329,Recursos Humanos
+Elena,Diaz,30,26087,Logística
+Elena,Morales,55,40906,Logística
+Elena,Fernandez,42,104516,Logística
+Luis,Fernandez,59,33884,IT
+Pedro,Perez,44,46302,Producción
+Miguel,Gomez,45,44132,Ventas
+Carlos,Morales,45,34809,Logística
+Maria,Fernandez,46,32301,Producción
+Miguel,Torres,35,115004,Logística
+Juan,Morales,32,75836,Recursos Humanos
+Juan,Lopez,46,107207,Logística
+Pedro,Lopez,39,27957,Producción
+Elena,Morales,41,36739,Marketing
+Sofia,Diaz,42,41252,Marketing
+Sofia,Morales,51,46321,IT
+Juan,Lopez,44,54383,Finanzas
+Luis,Lopez,58,51294,Investigación
+Carlos,Fernandez,42,51249,IT
+Ana,Lopez,35,21374,Producción
+Carlos,Fernandez,22,93167,Investigación
+Pedro,Sanchez,32,97514,Ventas
+Juan,Gomez,30,74724,Marketing
+Miguel,Fernandez,28,57020,Finanzas
+Pedro,Martinez,33,42478,Investigación
+Elena,Sanchez,55,25515,Ventas
+Juan,Rodriguez,49,31362,Ventas
+Sofia,Gomez,50,91905,IT
+Elena,Martinez,23,49300,Ventas
+Juan,Fernandez,55,59507,Recursos Humanos
+Sofia,Torres,53,84666,IT
+Juan,Lopez,53,112589,Finanzas
+Pedro,Sanchez,51,101249,Producción
+Juan,Perez,30,46833,Recursos Humanos
+Miguel,Torres,44,108596,Ventas
+Sofia,Lopez,55,56219,Investigación
+Carlos,Sanchez,32,92894,Ventas
+Elena,Martinez,29,87759,Investigación
+Carlos,Diaz,30,70374,Ventas
+Maria,Diaz,45,85927,IT
+Elena,Perez,58,52737,Finanzas
+Juan,Morales,49,50394,Recursos Humanos
+Maria,Fernandez,52,109589,Ventas
+Lucia,Torres,50,59532,Marketing
+Miguel,Sanchez,60,114340,Finanzas
+Carlos,Fernandez,23,43331,Finanzas
+Pedro,Perez,36,91200,Finanzas
+Juan,Gomez,54,26004,IT
+Lucia,Torres,42,21589,Investigación
+Ana,Morales,47,63468,Producción
+Sofia,Lopez,52,113219,Ventas
+Miguel,Rodriguez,48,88004,Marketing
+Lucia,Rodriguez,60,51919,IT
+Pedro,Perez,49,35242,Producción
+Carlos,Fernandez,57,51814,Logística
+Elena,Sanchez,45,97464,Logística
+Pedro,Sanchez,31,101561,Marketing
+Juan,Rodriguez,24,79125,Recursos Humanos
+Ana,Diaz,57,31795,Investigación
+Juan,Fernandez,34,35132,Ventas
+Luis,Torres,41,94469,Finanzas
+Carlos,Perez,51,96173,Investigación
+Pedro,Diaz,53,33599,Logística
+Carlos,Lopez,24,28199,Finanzas
+Carlos,Perez,31,55418,Recursos Humanos
+Pedro,Diaz,43,81829,Finanzas
+Juan,Diaz,27,91448,Recursos Humanos
+Sofia,Perez,39,20530,Ventas
+Sofia,Martinez,34,85387,IT
+Carlos,Rodriguez,58,76854,Ventas
+Luis,Perez,37,33055,Logística
+Maria,Lopez,58,38984,Investigación
+Sofia,Gomez,41,106492,Investigación
+Elena,Sanchez,46,117484,Logística
+Maria,Diaz,30,39692,Investigación
+Lucia,Rodriguez,31,45643,Ventas
+Juan,Morales,50,46443,Finanzas
+Juan,Martinez,48,25965,Ventas
+Ana,Fernandez,27,71693,Marketing
+Juan,Gomez,25,68186,Producción
+Miguel,Torres,35,83816,Investigación
+Ana,Rodriguez,39,106155,Investigación
+Ana,Diaz,53,93312,Producción
+Miguel,Rodriguez,23,52758,Logística
+Carlos,Martinez,54,69284,Producción
+Luis,Martinez,48,92079,Recursos Humanos
+Lucia,Martinez,32,94768,Producción
+Lucia,Perez,40,48362,Recursos Humanos
+Juan,Morales,53,56958,Recursos Humanos
+Elena,Sanchez,30,114220,Marketing
+Pedro,Torres,27,60717,Finanzas
+Luis,Diaz,27,49694,Logística
+Luis,Gomez,52,32540,Finanzas
+Carlos,Gomez,39,22699,Ventas
+Sofia,Diaz,32,32509,Ventas
+Juan,Fernandez,36,29574,Investigación
+Luis,Rodriguez,36,37931,Recursos Humanos
+Juan,Martinez,37,34283,Finanzas
+Lucia,Lopez,35,42413,Investigación
+Miguel,Morales,34,109467,Producción
+Elena,Diaz,49,20637,Ventas
+Lucia,Rodriguez,40,82299,IT
+Miguel,Perez,44,82623,Producción
+Maria,Gomez,59,48824,Investigación
+Miguel,Fernandez,35,62676,IT
+Ana,Torres,50,29538,Recursos Humanos
+Pedro,Fernandez,42,91700,Logística
+Ana,Torres,57,31230,Investigación
+Miguel,Torres,56,64708,Ventas
+Ana,Fernandez,25,111134,IT
+Lucia,Gomez,56,32555,Logística
+Sofia,Gomez,55,48381,IT
+Carlos,Sanchez,53,111664,IT
+Pedro,Martinez,34,71960,Ventas
+Sofia,Sanchez,51,106834,Investigación
+Ana,Rodriguez,30,107915,Producción
+Miguel,Torres,56,35503,Marketing
+Luis,Perez,44,58387,Logística
+Miguel,Gomez,29,60683,Marketing
+Sofia,Sanchez,30,92552,Finanzas
+Pedro,Diaz,52,118579,IT
+Sofia,Sanchez,59,84350,Producción
+Luis,Lopez,57,57371,Investigación
+Ana,Diaz,57,41797,Recursos Humanos
+Luis,Martinez,39,27189,Logística
+Maria,Gomez,49,53738,Recursos Humanos
+Elena,Lopez,53,72321,Marketing
+Maria,Perez,29,38645,Ventas
+Sofia,Rodriguez,59,116762,Producción
+Miguel,Lopez,45,97009,Recursos Humanos
+Elena,Torres,50,68006,Investigación
+Maria,Fernandez,42,23290,IT
+Luis,Rodriguez,48,31723,Ventas
+Luis,Fernandez,35,117993,Finanzas
+Luis,Lopez,34,22627,IT
+Luis,Sanchez,50,76980,IT
+Juan,Morales,28,61972,Investigación
+Sofia,Lopez,42,72055,IT
+Pedro,Rodriguez,56,54242,Logística
+Juan,Morales,28,103661,Logística
+Sofia,Torres,47,54620,Marketing
+Ana,Diaz,25,69712,Marketing
+Carlos,Rodriguez,33,21306,Marketing
+Juan,Morales,45,52382,Recursos Humanos
+Elena,Fernandez,49,79093,IT
+Lucia,Diaz,32,63784,Finanzas
+Miguel,Lopez,56,96268,Recursos Humanos
+Carlos,Lopez,44,73192,Logística
+Luis,Martinez,47,66172,Ventas
+Miguel,Perez,36,77063,Logística
+Maria,Torres,45,61988,Logística
+Carlos,Diaz,46,72797,Recursos Humanos
+Miguel,Perez,36,81985,Finanzas
+Lucia,Perez,41,68790,Marketing
+Carlos,Morales,23,22206,IT
+Juan,Perez,38,28451,Investigación
+Pedro,Diaz,33,52071,Producción
+Carlos,Sanchez,55,67768,Investigación
+Pedro,Gomez,56,24306,Finanzas
+Ana,Torres,40,49794,Finanzas
+Pedro,Martinez,57,91484,Finanzas
+Juan,Rodriguez,30,108951,Ventas
+Pedro,Fernandez,32,104664,Producción
+Luis,Sanchez,39,103210,IT
+Pedro,Diaz,36,59425,Marketing
+Maria,Rodriguez,43,40308,Investigación
+Ana,Morales,28,88374,Logística
+Maria,Torres,23,55312,IT
+Carlos,Sanchez,58,97389,Logística
+Sofia,Perez,32,105715,Producción
+Sofia,Rodriguez,23,58993,Ventas
+Ana,Gomez,29,23954,Producción
+Elena,Diaz,36,39981,Investigación
+Miguel,Torres,46,30158,Finanzas
+Maria,Martinez,32,56044,Investigación
+Ana,Morales,44,24860,Marketing
+Pedro,Morales,58,23431,Logística
+Lucia,Torres,32,37321,Ventas
+Lucia,Sanchez,31,54463,Recursos Humanos
+Lucia,Perez,51,75408,Finanzas
+Sofia,Morales,53,75911,Producción
+Ana,Morales,50,79464,Recursos Humanos
+Elena,Martinez,47,42888,Investigación
+Carlos,Gomez,34,22966,Finanzas
+Lucia,Fernandez,31,96439,Finanzas
+Luis,Torres,37,47120,IT
+Lucia,Morales,58,51174,Logística
+Luis,Rodriguez,42,87352,Logística
+Ana,Morales,57,108721,Logística
+Ana,Morales,45,86516,IT
+Carlos,Sanchez,48,71166,Ventas
+Maria,Torres,53,111495,Producción
+Juan,Perez,30,102242,Producción
+Miguel,Gomez,29,24371,Finanzas
+Lucia,Diaz,37,40047,Producción
+Sofia,Gomez,41,112977,Finanzas
+Ana,Lopez,47,107162,Logística
+Pedro,Martinez,23,89513,Recursos Humanos
+Sofia,Gomez,27,83302,Marketing
+Luis,Martinez,26,48308,Producción
+Sofia,Fernandez,56,99858,Investigación
+Ana,Martinez,22,45641,Finanzas
+Maria,Lopez,52,57743,Logística
+Juan,Lopez,54,65757,Producción
+Sofia,Morales,29,22792,Logística
+Lucia,Torres,49,65350,Marketing
+Juan,Perez,33,49188,Recursos Humanos
+Elena,Lopez,60,32357,Logística
+Maria,Martinez,33,81030,Logística
+Carlos,Perez,44,23527,Recursos Humanos
+Pedro,Lopez,31,53507,IT
+Lucia,Sanchez,56,92237,IT
+Miguel,Morales,24,103609,Producción
+Maria,Fernandez,58,92558,Ventas
+Pedro,Perez,34,44175,Finanzas
+Juan,Rodriguez,54,41618,Investigación
+Juan,Sanchez,33,54877,Ventas
+Elena,Fernandez,40,38970,Recursos Humanos
+Maria,Morales,60,95477,Investigación
+Maria,Fernandez,27,90151,Logística
+Maria,Lopez,43,26339,Recursos Humanos
+Pedro,Gomez,33,59077,Logística
+Miguel,Lopez,33,38480,Recursos Humanos
+Juan,Lopez,54,45547,Marketing
+Carlos,Rodriguez,54,90012,Producción
+Pedro,Lopez,51,115544,Finanzas
+Sofia,Perez,30,67071,Finanzas
+Elena,Perez,43,118862,Investigación
+Elena,Lopez,42,67433,Producción
+Miguel,Gomez,57,84632,Producción
+Ana,Rodriguez,52,59070,Ventas
+Miguel,Morales,58,72822,Recursos Humanos
+Lucia,Fernandez,23,27593,Ventas
+Ana,Rodriguez,52,107842,Investigación
+Miguel,Martinez,23,48623,Producción
+Lucia,Gomez,48,97244,Marketing
+Elena,Torres,57,39355,Producción
+Maria,Diaz,58,45413,Ventas
+Juan,Gomez,26,89927,Finanzas
+Sofia,Rodriguez,33,51842,Investigación
+Lucia,Fernandez,60,98517,Producción
+Lucia,Martinez,41,91123,Investigación
+Elena,Morales,35,60846,IT
+Luis,Gomez,43,58966,Ventas
+Maria,Martinez,44,72571,Producción
+Maria,Fernandez,26,31838,IT
+Luis,Fernandez,60,43935,Marketing
+Ana,Perez,31,24788,Marketing
+Juan,Martinez,58,57152,Finanzas
+Luis,Fernandez,25,119029,Marketing
+Ana,Diaz,29,74471,Producción
+Lucia,Lopez,38,112671,Recursos Humanos
+Maria,Perez,24,69294,Marketing
+Pedro,Torres,41,39273,Finanzas
+Elena,Fernandez,47,90112,Investigación
+Sofia,Sanchez,54,107448,Ventas
+Elena,Martinez,47,26769,Ventas
+Maria,Gomez,60,46107,Investigación
+Maria,Morales,29,49189,Recursos Humanos
+Carlos,Sanchez,27,106030,Recursos Humanos
+Lucia,Torres,51,108065,Recursos Humanos
+Lucia,Sanchez,51,94253,Marketing
+Maria,Sanchez,28,118435,Producción
+Juan,Lopez,43,84652,Ventas
+Elena,Morales,28,59352,Recursos Humanos
+Maria,Sanchez,23,31181,Marketing
+Luis,Diaz,39,54491,Recursos Humanos
+Juan,Gomez,41,94032,Recursos Humanos
+Luis,Torres,51,81391,Finanzas
+Maria,Perez,33,119912,IT
+Sofia,Martinez,23,76060,Producción
+Maria,Torres,54,115436,Ventas
+Lucia,Torres,38,100784,Marketing
+Ana,Sanchez,55,110217,Finanzas
+Miguel,Diaz,51,53219,Marketing
+Lucia,Diaz,23,37254,Finanzas
+Pedro,Perez,51,112689,Finanzas
+Maria,Diaz,60,30367,IT
+Lucia,Fernandez,53,63382,Logística
+Elena,Gomez,46,79654,Producción
+Carlos,Morales,27,78792,Producción
+Luis,Diaz,49,35935,Marketing
+Lucia,Sanchez,25,38730,Finanzas
+Carlos,Diaz,41,71185,Recursos Humanos
+Luis,Rodriguez,51,77986,Investigación
+Juan,Perez,46,45104,Recursos Humanos
+Sofia,Sanchez,37,63316,Producción
+Carlos,Gomez,31,58602,Ventas
+Carlos,Sanchez,39,25949,IT
+Ana,Morales,26,39679,Marketing
+Elena,Lopez,24,96184,Recursos Humanos
+Carlos,Martinez,46,86149,IT
+Luis,Martinez,51,91077,Investigación
+Carlos,Fernandez,43,58557,Finanzas
+Sofia,Rodriguez,24,42897,Investigación
+Elena,Sanchez,33,45496,Logística
+Juan,Perez,58,59620,Investigación
+Luis,Morales,43,49961,Finanzas
+Ana,Martinez,37,52707,Investigación
+Lucia,Martinez,52,57240,Marketing
+Ana,Sanchez,52,33575,Finanzas
+Juan,Rodriguez,55,74316,Producción
+Elena,Martinez,24,49813,Investigación
+Ana,Rodriguez,23,53566,IT
+Lucia,Martinez,39,92923,Logística
+Ana,Morales,50,84991,Producción
+Ana,Perez,25,68910,Investigación
+Lucia,Diaz,28,104058,Finanzas
+Carlos,Morales,25,32807,Producción
+Carlos,Perez,37,97632,Investigación
+Carlos,Morales,49,81965,IT
+Elena,Perez,60,34292,Producción
+Lucia,Gomez,52,100552,Marketing
+Miguel,Rodriguez,39,83738,IT
+Pedro,Torres,54,58910,Producción
+Carlos,Fernandez,49,117978,Marketing
+Luis,Perez,55,99292,IT
+Juan,Rodriguez,30,102660,Ventas
+Sofia,Lopez,52,106754,Logística
+Miguel,Rodriguez,32,61915,Ventas
+Miguel,Sanchez,23,52571,Recursos Humanos
+Luis,Sanchez,28,54527,Marketing
+Elena,Martinez,59,32341,Logística
+Lucia,Diaz,52,49013,Ventas
+Luis,Torres,28,67494,Finanzas
+Miguel,Rodriguez,25,102923,Investigación
+Pedro,Gomez,45,100388,Finanzas
+Elena,Sanchez,27,20835,Logística
+Lucia,Perez,51,62550,Finanzas
+Luis,Morales,42,55359,Producción
+Carlos,Rodriguez,42,53712,Producción
+Pedro,Perez,25,87024,IT
+Elena,Martinez,31,70894,Finanzas
+Elena,Diaz,36,97660,IT
+Maria,Sanchez,56,40673,Investigación
+Luis,Torres,28,44478,Producción
+Lucia,Torres,34,108850,Recursos Humanos
+Luis,Fernandez,54,108488,Logística
+Carlos,Diaz,25,51768,IT
+Maria,Torres,29,113293,IT
+Sofia,Rodriguez,26,55462,Recursos Humanos
+Maria,Martinez,54,51421,Logística
+Maria,Rodriguez,27,87023,Ventas
+Miguel,Fernandez,48,68746,Marketing
+Pedro,Torres,48,94929,Marketing
+Juan,Torres,32,71753,Logística
+Carlos,Perez,58,101501,Investigación
+Ana,Lopez,52,54778,Ventas
+Lucia,Morales,59,106839,Recursos Humanos
+Lucia,Torres,34,61123,Ventas
